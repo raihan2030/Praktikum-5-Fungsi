@@ -22,4 +22,5 @@ int main(){
         batas++;
     }
     printf("%d %d",maks,minim);
+    return 0;
 }
